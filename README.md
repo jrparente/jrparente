@@ -1,6 +1,6 @@
 # Hi there, I'm Joana 👋
 
-I am a self-guided ~~wannabe~~ web developer, based in Portugal.
+I am a self-guided ~~wannabe~~ 	*learner* developer, based in Portugal.
 
 ## What I'm up to:
 
