@@ -12,6 +12,8 @@ I am a self-guided ~~wannabe~~ 	*learner* developer, based in Portugal.
 
 ## Current Projects:
 
+These are projects that I'm constantly working on and trying to improve, which were designed and coded by me, without the help of any tutorials or courses:
+
 [joanaramosparente.pt](https://github.com/jrparente/joanaramosparente) - I'm rebuilding my portfolio to modernize and simplify the code structure with React
 
 [Simple Dinner Generator](https://github.com/jrparente/app-simple-dinners) - I am working on an app that will help me generate simple dinner ideas for the week ahead, and get me a shopping list for the those dinners.
