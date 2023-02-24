@@ -1,6 +1,10 @@
-# Hi there, I'm Joana 👋
+# Hi there! I'm Joana and I'm a web developer 👋
 
-Hi there! I'm Joana and I'm a web developer. I come from a background in hotel management and sales, but decided to pursue my passion for technology and make a career change in 2022. I've been working hard to learn HTML, CSS, JavaScript, React, NextJS and now I'm diving into back-end development with NodeJs, PostgreSQL, MongoDB and Express. I'm excited to share my projects on GitHub and continue growing as a developer. I believe in continuous learning and pushing myself out of my comfort zone, and I'm eager to work on new and challenging projects
+ I come from a background in hotel management and sales, but decided to pursue my passion for technology and make a career change in 2022. I've been working hard to learn HTML, CSS, JavaScript, React, NextJS and now I'm diving into back-end development with NodeJs, PostgreSQL, MongoDB and Express. 
+ 
+ I'm excited to share my projects on GitHub and continue growing as a developer. 
+ 
+ I believe in continuous learning and pushing myself out of my comfort zone, and I'm eager to work on new and challenging projects
 
 ## What I'm up to:
 
