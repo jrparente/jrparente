@@ -1,6 +1,6 @@
 # Hi there! I'm Joana and I'm a web developer 👋
 
- I come from a background in hotel management and sales, but decided to pursue my passion for technology and make a career change in 2022. I've been working hard to learn HTML, CSS, JavaScript, React, NextJS and now I'm diving into back-end development with NodeJs, PostgreSQL, MongoDB and Express. 
+ I come from a background in business management and sales, but decided to pursue my passion for technology and make a career change in 2022. I've been working hard to learn HTML, CSS, JavaScript, React, NextJS and now I'm diving into back-end development with NodeJs, PostgreSQL, MongoDB and Express. 
  
  I'm excited to share my projects on GitHub and continue growing as a developer. 
  
@@ -8,7 +8,7 @@
 
 ## What I'm up to 🔭
 
-- 👩‍💻 **Currently working on**: Building a full-stack e-commerce website using React, Node.js, and MongoDB
+- 👩‍💻 **Currently working on**: Building a full-stack portfolio and blog website for a client, using React, Node.js, and MongoDB
 
 - 📚 **Currently learning**: React and Node.js, as well as exploring different design patterns and best practices.
 
