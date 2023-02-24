@@ -8,11 +8,13 @@
 
 ## What I'm up to:
 
-- [ ] 🌱 I’m currently learning JavaScript and React
+- [ ] 👩‍💻 **Currently working on**: Building a full-stack e-commerce website using React, Node.js, and MongoDB
 
-- [ ] 💻 I’m working on projects to add to my portfolio
+- [ ] 📚 **Currently learning**: React and Node.js, as well as exploring different design patterns and best practices.
 
-- [ ] 🤔 Looking for an internship, to gain some real-world experience
+- [ ] 🤝 **Looking to collaborate on**: Open-source projects that align with my interests and allow me to contribute to the community.
+
+- [ ] 🌟 **Goals for 2023**: Build and launch a web application that makes a positive impact and continue to improve my skills and knowledge as a full stack developer.
 
 ## Current Projects:
 
