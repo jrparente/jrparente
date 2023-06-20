@@ -1,6 +1,6 @@
 # Hi there! I'm Joana and I'm a web developer 👋
 
- I come from a background in business management and sales, but decided to pursue my passion for technology and make a career change in 2022. I've been working hard to learn HTML, CSS, JavaScript, React, NextJS and now I'm diving into back-end development with NodeJs, PostgreSQL, MongoDB and Express. 
+I made a transition from business management and sales to web development in 2022 and haven't looked back since. My current skill set includes HTML, CSS, JavaScript and React.
  
  I'm excited to share my projects on GitHub and continue growing as a developer. 
  
@@ -8,25 +8,23 @@
 
 ## What I'm up to 🔭
 
-- 👩‍💻 **Currently working on**: Building a full-stack portfolio and blog website for a client, using React, Node.js, and MongoDB
+- 👩‍💻 **Currently working on**: Finishing the FrontEnd Developer Career Path from Scrimba and revamping my personal projects that have been on hold for a while.
 
-- 📚 **Currently learning**: React and Node.js, as well as exploring different design patterns and best practices.
+- 📚 **Currently learning**: Applying the concepts I've learned in my FrontEnd Developer Career Path course to real-world projects. Deepening my understanding of design patterns and best practices.
 
-- 🤝 **Looking to collaborate on**: Open-source projects that align with my interests and allow me to contribute to the community.
+- 🤝 **Looking to collaborate on**: Open-source projects that help me grow as a developer and contribute positively to the community.
 
-- 🌟 **Goals for 2023**: Build and launch a web application that makes a positive impact and continue to improve my skills and knowledge as a full stack developer.
+- 🌟 **Goals for 2023**: Re-launch my web applications with improved functionality and modern design. Continue to improve my skills and knowledge as a full-stack developer.
 
 ## Current Projects 🚀
 
 These are projects that I'm constantly working on and trying to improve, which were designed and coded by me, without the help of any tutorials or courses:
 
-- Client Project: Creating a blog and portfolio website for a client, to display a portfolio, services and share insights in her industry.
-
 - Personal Project: Developing a digital media brand which empowers women to make informed decisions about their well-being and financial stability, through articles, online courses, and a newsletter.
 
-- Personal Project: [joanaramosparente.pt](https://github.com/jrparente/joanaramosparente) - I'm rebuilding my portfolio to modernize and simplify the code structure with React
+- Personal Project: [joanaramosparente.pt](https://github.com/jrparente/joanaramosparente) - Working on revamping my portfolio with a modern and clean design using React.
 
-- Personal Project: [Simple Dinner Generator](https://github.com/jrparente/app-simple-dinners) - I am working on an app that will help me generate simple dinner ideas for the week ahead, and get me a shopping list for the those dinners.
+- Personal Project: [Simple Dinner Generator](https://github.com/jrparente/app-simple-dinners) - An application to generate simple dinner ideas and shopping lists for the week ahead.
 
 ## Get in touch 📫
 
