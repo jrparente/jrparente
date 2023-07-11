@@ -1,6 +1,6 @@
 # Hi there! I'm Joana and I'm a web developer 👋
 
-I made a transition from business management and sales to web development in 2022 and haven't looked back since. My current skill set includes HTML, CSS, JavaScript and React.
+I have been making a transition from business management and sales to web development since the end of 2022. My current skill set includes HTML, CSS, JavaScript and React.
  
  I'm excited to share my projects on GitHub and continue growing as a developer. 
  
@@ -8,7 +8,7 @@ I made a transition from business management and sales to web development in 202
 
 ## What I'm up to 🔭
 
-- 👩‍💻 **Currently working on**: Finishing the FrontEnd Developer Career Path from Scrimba and revamping my personal projects that have been on hold for a while.
+- 👩‍💻 **Currently working on**: Personal projects to practice the skills I'm learning and add to my portfolio.
 
 - 📚 **Currently learning**: Applying the concepts I've learned in my FrontEnd Developer Career Path course to real-world projects. Deepening my understanding of design patterns and best practices.
 
