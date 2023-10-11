@@ -20,15 +20,16 @@ I have been making a transition from business management and sales to web develo
 
 These are projects that I'm constantly working on and trying to improve, which were designed and coded by me, without the help of any tutorials or courses:
 
-- Personal Project: Developing a digital media brand which empowers women to make informed decisions about their well-being and financial stability, through articles, online courses, and a newsletter.
+- Personal Project: [Farol discover - website](https://github.com/jrparente/farol-discover) - A tailor-made travel agency platform that specializes in authentic walking and trekking tours in Portugal. Features include dynamic content management, real-time itinerary updates, and client testimonials. Tech Stack: React, NextJS, Tailwind CSS, Sanity.io CMS
 
-- Personal Project: [joanaramosparente.pt](https://github.com/jrparente/joanaramosparente) - Working on revamping my portfolio with a modern and clean design using React.
+- Personal Project: [AI Business Genie](https://www.aibusinessgenie.pt/) - A comprehensive business and content creation assistant designed to revolutionize the way marketers, entrepreneurs, and business professionals handle their daily tasks.
+  
+- Personal Project: [AI Travel Planner](https://ai-travel-agent.netlify.app/) - A responsive web application that leverages artificial intelligence to offer personalized travel planning. It simplifies the planning process by recommending attractions, and itineraries based on user preferences.
 
-- Personal Project: [Simple Dinner Generator](https://github.com/jrparente/app-simple-dinners) - An application to generate simple dinner ideas and shopping lists for the week ahead.
 
 ## Get in touch 📫
 
-- [Portfolio](https://www.joanaramosparente.pt)
+- [Portfolio](https://www.joana-parente.netlify.app)
 - [Email](mailto:jrparente@gmail.com)
 
 Thanks for stopping by, and happy coding! 😊
