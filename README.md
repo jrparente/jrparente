@@ -29,7 +29,7 @@ These are projects that I'm constantly working on and trying to improve, which w
 
 ## Get in touch 📫
 
-- [Portfolio](https://www.joana-parente.netlify.app)
+- [Portfolio](https://joanaramosparente.pt/)
 - [Email](mailto:jrparente@gmail.com)
 
 Thanks for stopping by, and happy coding! 😊
