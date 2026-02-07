@@ -24,7 +24,9 @@ I’m comfortable owning a project end to end, from shaping the solution and dat
 
 ### Work & collaboration
 
-I’m open to **consulting, developer roles, or long-term collaborations**, especially with teams that value autonomy, transparency, and building things that last.
+I’m interested in partnering with businesses to architect **growth-focused digital products and automated operational systems**.
+
+I’m open to consulting, developer roles, or long-term collaborations, especially on projects where technical decisions directly support scale, clarity, and day-to-day operations.
 
 📍 Based in Portugal  
 🌍 Working internationally  
