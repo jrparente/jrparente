@@ -1,43 +1,36 @@
-# Hi there! I'm Joana and I'm a web developer 👋
+## About Me
 
-I have been making a transition from business management and sales to web development since the end of 2022. My current skill set includes HTML, CSS, JavaScript and React. 
- 
-I'm excited to share my projects on GitHub and continue growing as a developer. 
- 
-I believe in continuous learning and pushing myself out of my comfort zone, and I'm eager to work on new and challenging projects
+I’m a **Full-Stack Developer with a strong background in digital strategy and operations**.
 
-## What I'm up to 🔭
+Before moving fully into development, I spent over 10 years working in account management, entrepreneurship, and growth-focused roles. That experience shapes how I build software today: I care about clarity, performance, and whether something actually solves a real problem, not just whether the code is clever.
 
-- 👩‍💻 **Currently working on**: Personal projects to practice the skills I'm learning and add to my portfolio.
+I’m an **MIT xPRO Certified Full-Stack Developer**. Over the past few years, I’ve been building and maintaining production systems for real businesses, including the digital and operational infrastructure of a tourism company that grew its revenue by **400%** during that period.
 
-- 📚 **Currently learning**: Enrolled in **MIT xPRO - Professional Certificate in Coding: Full Stack Development with MERN**, ending in August 2024. The program covers foundational web development skills, dives into front-end expertise with React, and solidifies back-end proficiency with MongoDB, ExpressJS, and NodeJS.
+I’m comfortable owning a project end to end, from shaping the solution and data model to shipping and maintaining it. I like clean architectures, predictable systems, and code that someone else can pick up without hating me six months later.
 
-- 🤝 **Looking to collaborate on**: Open-source projects that help me grow as a developer and contribute positively to the community.
+### What I usually work with
 
-- 🌟 **Goals for 2024**: Secure a fulfilling tech role (*Curious about my skills? Check out my [resume](https://joana-parente.netlify.app/Joana_Parente_Resume.pdf)!*), engage in collaborative large-scale projects, explore new languages, and expand my skills within a professional development setting.
+- **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS, shadcn/ui  
+- **CMS:** Sanity (GROQ, content modelling, multilingual content)  
+- **Backend (when needed):** Next.js API routes / server actions, REST-style endpoints, webhooks (for payments + emails)  
+- **Data:** Supabase (when it fits the project)  
+- **Tooling & delivery:** Vercel, GitHub, performance-first builds (image optimisation, caching, clean component structure)
 
-## Current Projects 🚀
+### What I’m interested in
 
-These are projects that I'm constantly working on and trying to improve, which were designed and coded by me, without the help of any tutorials or courses:
+- Building **solid, long-lasting digital products**
+- Systems that scale without becoming fragile or overcomplicated
+- Projects where technical decisions actually matter to the business
 
-- **Personal Project: [Simple Dinners Generator](https://github.com/jrparente/app-simple-dinners)** - My first solo project, Simple Dinners Generator is undergoing a transformation into a full-stack MERN app. I'm dedicated to enhancing both its functionality and the user experience, putting my newfound skills to the test.
+### Work & collaboration
 
-  - *Current Focus:*
-    - Transitioning to a full stack with MERN.
-    - Elevating the overall UX and UI for a more seamless user interaction.
-  
-- **Personal Project: [AI Travel Planner](https://ai-travel-agent.netlify.app/)** - This presents an exciting challenge. While it functions flawlessly in development, there are hiccups in production due to Vercel's API call timeout. I'm committed to resolving these issues and, of course, refining the user experience and interface.
+I’m open to **consulting, developer roles, or long-term collaborations**, especially with teams that value autonomy, transparency, and building things that last.
 
-  - *Current Challenges:*
-    - Addressing production issues related to Vercel's API call timeout.
-    - Ongoing efforts to enhance both UX and UI for a delightful user journey.
+📍 Based in Portugal  
+🌍 Working internationally  
+🔗 Portfolio: https://joanaparente.com  
+📩 Email: joanaramosparente@gmail.com
 
-## Get in touch 📫
-
-- [Portfolio](https://joanaramosparente.pt/)
-- [Email](mailto:jrparente@gmail.com)
-
-Thanks for stopping by, and happy coding! 😊
 
 <!--
 **jrparente/jrparente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
