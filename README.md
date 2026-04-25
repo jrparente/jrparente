@@ -31,7 +31,7 @@ I’m open to consulting, developer roles, or long-term collaborations, especial
 📍 Based in Portugal  
 🌍 Working internationally  
 🔗 Portfolio: https://joanaparente.com  
-📩 Email: joanaramosparente@gmail.com
+📩 Email: hello@joanaparente.com
 
 
 <!--
